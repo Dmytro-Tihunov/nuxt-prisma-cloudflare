@@ -17,7 +17,8 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240815.0",
+    "nitro-cloudflare-dev": "^0.1.6",
     "prisma": "^5.18.0",
-    "wrangler": "^3.71.0"
+    "wrangler": "^3.72.0"
   }
 }

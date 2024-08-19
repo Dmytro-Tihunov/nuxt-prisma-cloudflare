@@ -1,1 +1,8 @@
+name = "nuxt-prisma-cloudflare"
+compatibility_date = "2024-03-20"
 compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "tes"
+database_id = "19debe7c-3a4d-4937-8850-efdaf4635c07"
